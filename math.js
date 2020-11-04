@@ -1,5 +1,5 @@
 function sum (a, b) {
-    return parseFloat(a) + parseFloat(b);;
+    return (a) + parseFloat(b);;
 }
 
 module.exports = sum;
